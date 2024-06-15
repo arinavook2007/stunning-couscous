@@ -1,0 +1,22 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    background-color:#a9b8b0
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: black; 
+    font-size:150%;
+}
+
+img {
+    background-image: image-set(hobby.1);
+    background-image: image-set(hobby.2);
+    background-image: image-set(hobby.3);
+    border-radius: 10px;
+    margin: 10px;
+}
